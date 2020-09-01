@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PenCon</string>
+    <string name="action_settings">ScanBLE</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="unknown_device">Unknown device</string>
+</resources>
